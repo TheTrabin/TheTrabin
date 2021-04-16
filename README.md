@@ -68,6 +68,6 @@ Original focus was an idea involving table top roleplaying where applications li
     - Other features being written out as things progress
 
 ### Templates for Web Design
-Single Page basics
-React App 3+ page single page application
-Dynamic log-in and persistence
+<p>Single Page basics<br>
+React App 3+ page single page application<br>
+Dynamic log-in and persistence</p>
