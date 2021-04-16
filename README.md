@@ -28,9 +28,10 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [https://mmcleod.me](https://mmcleod.me) **Coming Soon<sup>tm</sup>**
 
-- 💬 Ask me about **React.js, Express, Knex, Axios, Heroku, Bash, Linux, Unity**
+- 💬 Ask me about **HTML, CSS, LESS, C#, Python, React.js, Express.js, Knex.js, Axios, Heroku, Bash, Linux, Unity**
 
 - 📫 How to reach me **michael@mmcleod.me**
+    You can also reach me on Discord: [Annon T'yr](discord.gg/V9fPRfKXu9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,12 +52,14 @@ Here are some ideas to get you started:
 
 - RPGs for sure. Something about being able to build out characters and test different things and experiment, go through a story and be a part of something while also having the opportunity to explore, while also learning things about yourself. #Goals
 
+- Building and Modifying Desktop computers. From building from parts, maintaining, testing, and parting out machines. There's nothing like being elbow deep in a pc and working out all the issues from Drivers, POST issues, installing components, and setting up operating systems.
+
 ## Additional Projects in the works
 
 ### Private Server for Screeps coming soon
 Screeps is a real-time strategy game where you program Creeps (little bots) with the use of JavaScript (or other languages with some adaptation). Requires some JavaScript knowledge, but it really helps you learn more as you progress.
 
-### RPG Game (Title Pending)
+### RPG Game (Title Pending) - [Niche Trello](https://trello.com/b/rrwLOHw7/niche-idle)
 A Project where while there's a base game, an engine will be built where individuals can create their own worlds importing their own information.
 Original focus was an idea involving table top roleplaying where applications like VTT and Roll20 could be expanded on and evolved to something like an Action RPG
     - monsters with images, stats, and basic AI functions
