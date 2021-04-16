@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **HTML, CSS, LESS, C#, Python, React.js, Express.js, Knex.js, Axios, Heroku, Bash, Linux, Unity**
 
 - 📫 How to reach me **michael@mmcleod.me**
-    -- You can also reach me on Discord: [Annon T'yr](discord.gg/V9fPRfKXu9)
+    <br> You can also reach me on Discord: [Annon T'yr](discord.gg/V9fPRfKXu9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
