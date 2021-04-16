@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h3 align="center">Full Stack Web and Aspiring Game Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thetrabin&label=Profile%20views&color=0e75b6&style=flat" alt="thetrabin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thetrabin&label=Profile%20views&color=0e75b6&style=flat" alt="thetrabin" />
 
 <p align="left"> <a href="https://twitter.com/mikemcleoddev" target="blank"><img src="https://img.shields.io/twitter/follow/mikemcleoddev?logo=twitter&style=for-the-badge" alt="mikemcleoddev" /></a> </p>
 
